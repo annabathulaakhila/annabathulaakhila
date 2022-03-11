@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @annabathulaakhila
+- 👀 I’m interested in languages like Python, SQL ...
+- 🌱 I’m currently learning DataScience...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me annabathulaakhila@gmail.com
+<!---
+annabathulaakhila/annabathulaakhila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
